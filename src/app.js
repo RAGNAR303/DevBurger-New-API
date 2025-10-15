@@ -1,3 +1,4 @@
+import 'dotenv/config.js';
 import express from 'express';
 import fileRoutesConfig from './config/fileRoutes.cjs';
 import routes from './routes.js';
